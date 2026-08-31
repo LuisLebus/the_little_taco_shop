@@ -72,6 +72,7 @@ the_little_taco_shop/
 
 ---
 
-## 👤 Author
+## 📚 Credits & Acknowledgments
 
-- **Luis Lebus**
+This project is based on the final project from the [HTML Course](https://github.com/gitdagray/html_course) by [Dave Gray](https://github.com/gitdagray).
+
